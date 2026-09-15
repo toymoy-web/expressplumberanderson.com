@@ -1,0 +1,2 @@
+# Intentionally empty. Cloudflare Pages resolves slug/index.html routing
+# and clean/extensionless URLs natively. Do not add 200/301 rules here.
