@@ -1,6 +1,10 @@
 
 :root{--indigo:#3E3EA8;--indigo-d:#2C2C82;--amber:#F5A623;--amber-d:#D88E10;--ink:#20203A;--bg:#FFFFFF;--soft:#F6F5FC;--gray:#5C5C74;--line:#E4E2F2}
 *{margin:0;padding:0;box-sizing:border-box}
+p{margin-bottom:16px}
+p:last-child{margin-bottom:0}
+li{margin-bottom:6px}
+li:last-child{margin-bottom:0}
 body{font-family:'Nunito Sans',sans-serif;color:var(--ink);background:var(--bg);line-height:1.6}
 h1,h2,h3,h4{font-family:'Sora',sans-serif;letter-spacing:-.02em}
 .wrap{max-width:1180px;margin:0 auto;padding:0 24px}
